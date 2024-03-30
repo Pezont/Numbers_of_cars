@@ -29,6 +29,9 @@ public class Main {
                 System.out.println(i);
             }
         }
+// функция возвращает количество счастливых номеров в одной буквенной серии
+
+
 //        System.out.println(sum);
 //       for(int n =0; n<45;n++){
 //           if(n%2==0)
